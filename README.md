@@ -23,9 +23,6 @@ This project aims to detect and classify the severity of Alzheimer’s disease u
 - **Model Training and Evaluation:** Various machine learning models, including CNNs and transfer learning, trained on 2D and 3D image data.
 - **Research Paper and Slides:** A detailed report and visual presentation of the project.
 
-### What This Repository Does Not Contain
-- **Raw Image Data:** The MRI datasets are not included for privacy and storage reasons.
-
 ---
 
 ## How It Works
